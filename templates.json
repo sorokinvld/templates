@@ -428,7 +428,7 @@
       }
     ],
     "ports": [
-      "80/tcp"
+      "8080:80/tcp"
     ],
     "volumes": ["/var/www/html"]
   },
